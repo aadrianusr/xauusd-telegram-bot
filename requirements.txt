@@ -1,0 +1,5 @@
+Flask==2.2.5
+requests==2.31.0
+pandas==2.2.2
+numpy==1.26.3
+ta==0.12.2
